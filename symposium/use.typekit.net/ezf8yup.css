@@ -1,0 +1,29 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * synthese:
+ *   - http://typekit.com/eulas/00000000000000003b9b19e0
+ *   - http://typekit.com/eulas/00000000000000003b9b19e4
+ *
+ * © 2009-2018 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2018-07-03 21:45:22 UTC"}*/
+
+@import url("../p.typekit.net/pb2d2.css?s=1&amp;k=ezf8yup&amp;ht=tk&amp;f=38206.38210&amp;a=4542672&amp;app=typekit&amp;e=css");
+
+@font-face {
+font-family:"synthese";
+src:url("af/23df60/00000000000000003b9b19e0/27/l3eab?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n3&amp;v=3") format("woff2"),url("af/23df60/00000000000000003b9b19e0/27/d3eab?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n3&amp;v=3") format("woff"),url("af/23df60/00000000000000003b9b19e0/27/a3eab?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n3&amp;v=3") format("opentype");
+font-style:normal;font-weight:300;
+}
+
+@font-face {
+font-family:"synthese";
+src:url("af/fd1342/00000000000000003b9b19e4/27/l652f?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3") format("woff2"),url("af/fd1342/00000000000000003b9b19e4/27/d652f?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3") format("woff"),url("af/fd1342/00000000000000003b9b19e4/27/a652f?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3") format("opentype");
+font-style:normal;font-weight:700;
+}
+
+.tk-synthese { font-family: "synthese",sans-serif; }
